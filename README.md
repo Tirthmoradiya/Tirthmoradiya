@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tirth Moradiya</h1>
 <h3 align="center">Full Stack Developer | MERN Enthusiast | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tirthmoradiya&label=Profile%20views&color=0e75b6&style=flat" alt="Tirthmoradiya" />
-  <img src="https://img.shields.io/github/followers/Tirthmoradiya?label=Follow&style=social" alt="followers" />
-</p>
-
 ---
 
 🎓 I’m pursuing a **B.Tech in Computer Engineering**
 
-🌱 I’m currently learning **Next.js and DevOps**
+🌱 I’m currently learning **Next.js, DevOps and GraphQL**
 
 💬 Ask me about **MERN Stack, REST APIs, Web Security**
 
