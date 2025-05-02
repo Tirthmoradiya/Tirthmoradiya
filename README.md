@@ -1,48 +1,68 @@
-# 👋 Hi there, I'm Tirth Moradiya
+<h1 align="center">Hi 👋, I'm Tirth Moradiya</h1>
+<h3 align="center">Full Stack Developer | MERN Enthusiast | Lifelong Learner</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tirthmoradiya&style=flat-square)
-
-I'm a passionate MERN Stack Developer with hands-on experience in building scalable, high-performance web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-
-## 🚀 About Me
-
-- 🌍 Based in Ahmedabad, Gujarat
-- 💼 Frontend Developer at MicraSquare
-- 🎓 B.Tech in Computer Engineering
-- 💬 Ask me about JavaScript, React, Node.js, and MongoDB
-- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/tirth-moradiya-00aa59256)
-
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-
-## 📈 GitHub Stats
-
-![Tirth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tirthmoradiya&show_icons=true&theme=radical)
-
-## 📌 Featured Projects
-
-Here are some of my highlighted repositories:
-
-- [logistic-route-optimise](https://github.com/Tirthmoradiya/logistic-route-optimise): A JavaScript project for optimizing logistic routes.
-- [telephone_book](https://github.com/Tirthmoradiya/telephone_book): A Java-based telephone directory application.
-- [process_scheduling_algos](https://github.com/Tirthmoradiya/process_scheduling_algos): Implementation of various process scheduling algorithms in C++.
-- [snapmon](https://github.com/Tirthmoradiya/snapmon): A JavaScript tool for monitoring snapshots.
-- [secure_code_analyser](https://github.com/Tirthmoradiya/secure_code_analyser): A Python-based secure code analysis tool.
-
-Feel free to explore these projects and provide feedback!
-
-## 📫 Let's Connect
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Connect with me on [LinkedIn](https://in.linkedin.com/in/tirth-moradiya-00aa59256).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tirthmoradiya&label=Profile%20views&color=0e75b6&style=flat" alt="Tirthmoradiya" />
+  <img src="https://img.shields.io/github/followers/Tirthmoradiya?label=Follow&style=social" alt="followers" />
+</p>
 
 ---
 
-*“Always Be Happy, Keep Moving Forward”*
+🎓 I’m pursuing a **B.Tech in Computer Engineering**
+
+🌱 I’m currently learning **Next.js and DevOps**
+
+💬 Ask me about **MERN Stack, REST APIs, Web Security**
+
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/tirth-moradiya-738927253/)**
+
+⚡ Fun fact: I love debugging more than writing new code!
+
+---
+
+## 🛠️ Languages & Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tirthmoradiya&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthmoradiya&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🚀 Highlight Projects
+
+- 🔧 [logistic-route-optimise](https://github.com/Tirthmoradiya/logistic-route-optimise)
+- 📖 [telephone_book](https://github.com/Tirthmoradiya/telephone_book)
+- 🧠 [process_scheduling_algos](https://github.com/Tirthmoradiya/process_scheduling_algos)
+- 📸 [snapmon](https://github.com/Tirthmoradiya/snapmon)
+- 🔐 [secure_code_analyser](https://github.com/Tirthmoradiya/secure_code_analyser)
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tirth-moradiya-738927253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+> *“Always Be Happy, Keep Moving Forward” – Tirth Moradiya*
