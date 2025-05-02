@@ -31,15 +31,6 @@
 
 ---
 
-## 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tirthmoradiya&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthmoradiya&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 🚀 Highlight Projects
 
 - 🔧 [logistic-route-optimise](https://github.com/Tirthmoradiya/logistic-route-optimise)
