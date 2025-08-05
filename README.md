@@ -5,8 +5,6 @@
 
 🎓 I’m pursuing a **B.Tech in Computer Engineering**
 
-🌱 I’m currently learning **Next.js, DevOps and GraphQL**
-
 💬 Ask me about **MERN Stack, REST APIs, Web Security**
 
 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/tirth-moradiya-738927253/)**
@@ -33,10 +31,10 @@
 
 ## 🚀 Highlight Projects
 
-- 🔧 [logistic-route-optimise](https://github.com/Tirthmoradiya/logistic-route-optimise)
-- 📖 [telephone_book](https://github.com/Tirthmoradiya/telephone_book)
+- 🔧 [fleetflow - logistic route optimisation dashboard](https://github.com/Tirthmoradiya/logistic-route-optimise)
+- 📖 [skillforge - personalized learning tracker](https://github.com/Tirthmoradiya/SkillForge-Personalized-Learning-Tracker)
 - 🧠 [process_scheduling_algos](https://github.com/Tirthmoradiya/process_scheduling_algos)
-- 📸 [snapmon](https://github.com/Tirthmoradiya/snapmon)
+- 📸 [snapmon - live chat website](https://github.com/Tirthmoradiya/snapmon)
 - 🔐 [secure_code_analyser](https://github.com/Tirthmoradiya/secure_code_analyser)
 
 ---
