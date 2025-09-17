@@ -31,11 +31,12 @@
 
 ## 🚀 Highlight Projects
 
-- 🔧 [fleetflow - logistic route optimisation dashboard](https://github.com/Tirthmoradiya/logistic-route-optimise)
-- 📖 [skillforge - personalized learning tracker](https://github.com/Tirthmoradiya/SkillForge-Personalized-Learning-Tracker)
-- 🧠 [process_scheduling_algos](https://github.com/Tirthmoradiya/process_scheduling_algos)
-- 📸 [snapmon - live chat website](https://github.com/Tirthmoradiya/snapmon)
-- 🔐 [secure_code_analyser](https://github.com/Tirthmoradiya/secure_code_analyser)
+- 🚚 FleetFlow – Route Optimization Dashboard · [Repo](https://github.com/Tirthmoradiya/FleetFlow-Route-Optimization-Dashboard) · [Live](https://graph-theory-two.vercel.app)
+- 📚 SkillForge – Personalized Learning Tracker · [Repo](https://github.com/Tirthmoradiya/SkillForge-Personalized-Learning-Tracker)
+- 🔁 File Transfer – Simple Android ↔︎ Mac file sharing · [Repo](https://github.com/Tirthmoradiya/file_transfer)
+- 🧠 Process Scheduling Algorithms (C++) · [Repo](https://github.com/Tirthmoradiya/process_scheduling_algos)
+- 📸 Snapmon – Real-time chat web app · [Repo](https://github.com/Tirthmoradiya/snapmon)
+- 🔐 Secure Code Analyser (Python) · [Repo](https://github.com/Tirthmoradiya/secure_code_analyser)
 
 ---
 
