@@ -20,19 +20,19 @@ Most developers pretend every side project is a startup in the making. I prefer 
     A static code analyzer that is completely obsolete thanks to frontier AI models. Built manually to ensure I understand AST parsing and tokenization before trusting AI to do it for me.
 *   **[snapmon](https://github.com/Tirthmoradiya/snapmon)** 
     A real-time chat application built by following a tutorial to practically learn the MERN stack and WebSockets.
-*   **[quiz-app-backend]** *(Insert exact repo name)*
+*   **[quiz-app-backend](https://github.com/Tirthmoradiya/quizapp)**
     An interview assignment. Includes a complete Postman collection so reviewers don't have to guess my routing structure.
-*   **[telephone-book]** *(Insert exact repo name)*
+*   **[telephone-book](https://github.com/Tirthmoradiya/telephone_book)*+
     Zero modern utility. Kept exclusively as a historical record of my first time wiring a graphical user interface to backend CRUD operations.
 
 ## 🛠 Technical Stack
 
 I use the tools that get the job done most efficiently.
 
-*   **Languages:** C++, Java, JavaScript, Python
-*   **Backend:** Node.js, Express, REST APIs
+*   **Languages:** C++, Python, JavaScript, Java 
+*   **Backend:** Node.js, Express, REST APIs, Fast API
 *   **Frontend:** React
-*   **Databases:** MongoDB, PostgreSQL
+*   **Databases:** MongoDB, MySQL
 
 ## ✉️ Contact
 
