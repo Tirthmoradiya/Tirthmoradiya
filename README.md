@@ -22,7 +22,7 @@ Most developers pretend every side project is a startup in the making. I prefer 
     A real-time chat application built by following a tutorial to practically learn the MERN stack and WebSockets.
 *   **[quiz-app-backend](https://github.com/Tirthmoradiya/quizapp)**
     An interview assignment. Includes a complete Postman collection so reviewers don't have to guess my routing structure.
-*   **[telephone-book](https://github.com/Tirthmoradiya/telephone_book)*+
+*   **[telephone-book](https://github.com/Tirthmoradiya/telephone_book)** 
     Zero modern utility. Kept exclusively as a historical record of my first time wiring a graphical user interface to backend CRUD operations.
 
 ## 🛠 Technical Stack
