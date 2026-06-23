@@ -1,41 +1,42 @@
-<h1 align="center">Hi 👋, I'm Tirth Moradiya</h1>
-<h3 align="center">I build what’s necessary. Ignore the rest.</h3>
+# Tirth Moradiya
 
----
+**Software Engineer | B.Tech CSE**
 
-Completed a B.Tech in Computer Engineering.
+I treat code as a tool to solve problems, not a lifestyle. I prioritize boring, stable technology over trendy frameworks, and I value clear documentation, reliable infrastructure, and code that is easy to maintain (or delete). 
 
-Most things don’t need to be full-stack.
-I prefer systems that work over systems that impress.
-I avoid unnecessary complexity when possible.
+I don't over-engineer simple features, and I build things strictly when a problem needs solving, an assignment needs finishing, or a concept needs learning. 
 
----
+## 📂 Repository Guide: Why This Code Exists
 
-## 🛠️ Tools I Use
+Most developers pretend every side project is a startup in the making. I prefer to index mine by why they actually exist. 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+*   **[Scalable-Data-Ingestion-Pipeline](https://github.com/Tirthmoradiya/Scalable-Data-Ingestion-Pipeline)** 
+    Built strictly to satisfy the technical requirements of an Apple job description. It proves I can architect and deploy an enterprise-grade stack on demand.
+*   **[file_transfer](https://github.com/Tirthmoradiya/file_transfer)** 
+    Built out of pure frustration with broken cables, failing Bluetooth, and bloated third-party apps. A lightweight local network transfer tool for Mac and Android. 
+*   **[SkillForge](https://github.com/Tirthmoradiya/SkillForge)** 
+    An internship deliverable demonstrating a straightforward, practical AI API integration to solve a mundane problem—without the buzzwords or hype.
+*   **[secure_code_analyser](https://github.com/Tirthmoradiya/secure_code_analyser)** 
+    A static code analyzer that is completely obsolete thanks to frontier AI models. Built manually to ensure I understand AST parsing and tokenization before trusting AI to do it for me.
+*   **[snapmon](https://github.com/Tirthmoradiya/snapmon)** 
+    A real-time chat application built by following a tutorial to practically learn the MERN stack and WebSockets.
+*   **[quiz-app-backend]** *(Insert exact repo name)*
+    An interview assignment. Includes a complete Postman collection so reviewers don't have to guess my routing structure.
+*   **[telephone-book]** *(Insert exact repo name)*
+    Zero modern utility. Kept exclusively as a historical record of my first time wiring a graphical user interface to backend CRUD operations.
 
----
+## 🛠 Technical Stack
 
-## 🔗 Connect
+I use the tools that get the job done most efficiently.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tirth-moradiya-738927253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+*   **Languages:** C++, Java, JavaScript, Python
+*   **Backend:** Node.js, Express, REST APIs
+*   **Frontend:** React
+*   **Databases:** MongoDB, PostgreSQL
 
----
+## ✉️ Contact
 
-> most problems are overengineered
-> I try not to add to that
+I prefer asynchronous communication and clear documentation. If you have an engineering role that requires someone to solve business problems efficiently and predictably, reach out.
+
+*   **LinkedIn:** [https://www.linkedin.com/in/tirth-moradiya-738927253/]
+*   **Email:** [tirthmoradiya007@gmail.com]
